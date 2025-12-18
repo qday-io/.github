@@ -19,27 +19,14 @@ You can find more details at the following links:
 
 ## 🌈 Brief Description of Repositories
 
-| No. | Repository Name            | Description                                                                                                                                                                             | Language   |
-|-----|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| 1   | qday-da-node               | As the DA(Data Availability) node of the QDAY chain, it forks Ethermint.                                                                                                                | Golang     |
-| 2   | qday-community-website     | QDAY Ecosystem's community portal website                                                                                                                                               | Golang     |
-| 3   | qday-abel-bridge-committer | Providing rollup capabilities for the QDAY chain is one of QDAY's core components.                                                                                                      | Golang     |
-| 4   | qday-zkevm-node            | It provides the execution environment for QDAY Chain and is one of the core components of QDAY. It is a fork of PolygonZKEVM.                                                           | Golang     |
-| 5   | cometbft CometBFT          | CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.                                             | JavaScript |
-| 6   | qday-zkevm-contracts       | The contract necessary to provide rollup capabilities for QDAY is one of the core components of the QDAY chain; it is a fork of PolygonZKEVM.                                           | Solidity   |
-| 7   | qday-explorer-blockscout   | Customized explorer for Qday                                                                                                                                                            |            |
-| 8   | qday-wabel-bridge          | A centralized cross-chain bridge for ABEL. Provides cross-chain services from ABEL to WABEL.                                                                                            | Solidity   |
-| 9   | qday-service               | Provide APIs for dApps in the QDAY ecosystem                                                                                                                                            | Golang     |
-| 10  | qday-swap-ui               | The Front End of QDAY Swap                                                                                                                                                              | TypeScript |
-| 11  | qday-wqday-exchange        | Enable mutual exchange between QDAY and WQDAY                                                                                                                                           | TypeScript |
-| 12  | qday-wabel-bridge-ui       | The front end of QDay WABEL Bridge                                                                                                                                                      | TypeScript |
-| 13  | qday-staking-ui            | The front end of QDay Staking                                                                                                                                                           | TypeScript |
-| 14  | abel-staking-ui            | The front end of ABEL Staking                                                                                                                                                           | TypeScript |
-| 15  | qday-portfolio-ui          | The front end of Portal                                                                                                                                                                 | TypeScript |
-| 16  | qday-explorer-frontend     | The front end of Portal                                                                                                                                                                 | TypeScript |
-| 17  | uniswap-v3                 | QDAY Swap provides dex services for the QDAY ecosystem; it is a fork of uniswap v3.                                                                                                     | Solidity   |
-| 18  | abel-stake                 | Based on the QDAY ecosystem, it provides a staking service platform for ABEL, with functions such as token packaging, staking mechanism and reward distribution.                        | Solidity   |
-| 19  | qday-stake                 | A platform that provides staking services for QDAY based on the QDAY ecosystem, featuring encapsulated QDay tokens, UUPS upgradeable contracts, and advanced role-based access control. | Solidity   |
-| 20  | qday-staking-server        | Providing off-chain services for QDAY Staking                                                                                                                                           | Golang     |
-| 21  | qday-scanner               | It is an off-chain service of QDAY chain, providing the ability to query logs.                                                                                                          | Golang     |
-| 22  | qday-burn                  | Burning Qday, to deflationary economic model                                                                                                                                            | Golang     |
+| No. | Repository Name            | Description                                                                                                                                   | Language   |
+|-----|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 1   | qday-da-node               | As the DA(Data Availability) node of the QDAY chain, it forks Ethermint.                                                                      | Golang     |
+| 2   | qday-community-website     | QDAY Ecosystem's community portal website                                                                                                     | Golang     |
+| 3   | qday-abel-bridge-committer | Providing rollup capabilities for the QDAY chain is one of QDAY's core components.                                                            | Golang     |
+| 4   | qday-zkevm-node            | It provides the execution environment for QDAY Chain and is one of the core components of QDAY. It is a fork of PolygonZKEVM.                 | Golang     |
+| 5   | cometbft                   | CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. A fork and successor to Tendermint Core.   | JavaScript |
+| 6   | qday-zkevm-contracts       | The contract necessary to provide rollup capabilities for QDAY is one of the core components of the QDAY chain; it is a fork of PolygonZKEVM. | Solidity   |
+| 7   | qday-explorer-blockscout   | Customized explorer for Qday                                                                                                                  |            |
+| 8   | uniswap-v3                 | QDAY Swap provides dex services for the QDAY ecosystem; it is a fork of uniswap v3.                                                           | Solidity   |
+
